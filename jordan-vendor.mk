@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-vendor_path = vendor/motorola/jordan-common
+vendor_path = vendor/motorola
 
 # LIBS
 PRODUCT_COPY_FILES += \
